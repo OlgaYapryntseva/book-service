@@ -112,5 +112,4 @@ public class BookServiceImpl implements BookService {
 		authorRepository.delete(author);
 		return modelMapper.map(author, AuthorDto.class);
 	}
-
 }
