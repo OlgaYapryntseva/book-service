@@ -1,4 +1,4 @@
-package telran.java48.configuration;
+package telran.java48.book.configuration;
 
 import java.util.List;
 import java.util.Set;
